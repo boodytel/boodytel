@@ -195,7 +195,8 @@ http://190.131.228.59:8000/play/a0rv/index.m3u8
 http://190.131.228.59:8000/play/a04y/index.m3u8
 #EXTINF:-1,Telecaribe
 http://190.131.228.59:8000/play/a0rt/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe",Telecaribe
+#EXTINF:-1 tvg-id="ATV",ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 http://190.131.228.59:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="Telefeca",Telefe ca
 http://190.131.228.59:8000/play/a04p/index.m3u8
